@@ -1,3 +1,5 @@
+forked from https://github.com/linuxdotexe/nordic-wallpapers
+
 # Nordic Wallpapers
 A collection of wallpapers cherry picked from [reddit](https://reddit.com/r/ImageGoNord), [unsplash](https://unsplash.com/t/wallpapers),
 [Christian Chiarulli's discord server](https://discord.gg/Xb9B4Ny), [wallhaven](https://wallhaven.cc) and
