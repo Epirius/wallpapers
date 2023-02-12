@@ -17,12 +17,7 @@ This is the [original image](https://images.unsplash.com/photo-1500338427510-5de
 and [this](wallpapers/ign_unsplash4.png) is the result after being processed by ImageGoNord.
 
 ## Made with ImageGoNord
-I found this project [ImageGoNord](https://github.com/Schrodinger-Hat/ImageGoNord) and I absolutely loved it. I started making all the wallpapers I liked to match my WM's colorscheme. I then thought I should make this a collection for others to use too since there are many ricing enthusiasts around the world. This could not have been possible without the [ImageGoNord](https://github.com/Schrodinger-Hat/ImageGoNord) project by [Schrödinger Hat](https://github.com/Schrodinger-Hat). You can sponser this open-source project through the following links:
-
-1. https://opencollective.com/schrodinger-hat
-2. https://github.com/sponsors/Wabri
-3. https://github.com/sponsors/TheJoin95 
-4. https://www.paypal.com/paypalme/thejoin
+I found this project [ImageGoNord](https://github.com/Schrodinger-Hat/ImageGoNord) and I absolutely loved it. I started making all the wallpapers I liked to match my WM's colorscheme. I then thought I should make this a collection for others to use too since there are many ricing enthusiasts around the world. This could not have been possible without the [ImageGoNord](https://github.com/Schrodinger-Hat/ImageGoNord) project by [Schrödinger Hat](https://github.com/Schrodinger-Hat).
 
 ## NOTE
 This repo is not inactive. I ran out of wallpapers and waiting for pull requests until I find new wallpapers😬 
@@ -35,11 +30,3 @@ paru -S nordic-wallpapers
 ```
 
 You can find these wallpapers in `/usr/share/backgrounds/nordic-wallpapers/`.
-
-## Thanks to all the contributors :)
-
-<a href = "https://github.com/linuxdotexe/nordic-wallpapers/graphs/contributors">
-
-  <img src = "https://contrib.rocks/image?repo=linuxdotexe/nordic-wallpapers"/>
-
-</a>
